@@ -1,4 +1,4 @@
-release_repo_url: git@github.com:ros2-gbp/resource_retriever-release
+release_repo_url: git@github.com:revyos-ros/resource_retriever-release.git
 tracks:
   ardent:
     actions:
